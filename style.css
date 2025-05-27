@@ -1,0 +1,12 @@
+html {
+	height: 100%;
+	background: #270E00;
+	background: linear-gradient(150deg, rgba(39, 14, 0, 1) 0%, rgba(0, 22, 16, 1) 100%);
+}
+
+body {
+	margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 800px;
+}
